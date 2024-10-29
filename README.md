@@ -1,6 +1,6 @@
 Hi Welcome to BLC-BitcoinLC.
 
-We are forking BTC from 2008 technology to the most advanced technologies of 2024.
+We are forking BTC from PoW to the most advanced technologies of 2024.
 No more wasted electricity for solving a puzzle(PoW), Miners can process AI tasks and get verified to get BLC.
 
 
